@@ -3,7 +3,7 @@
 
 - 👨🏻‍💻 **Desenvolvedor Backend** entusiasta em chatbots, sistemas especialistas, IA e assistentes de voz.
 - 🎓 Estudante de **engenharia de software** na FIAP.
-- 🎵 Pianista e apaixonado por música e modo geral.
+- 🎵 **Pianista e apaixonado** por música e modo geral.
   
 ### 🧠 Proficiente em:
 <div style="display: inline">
@@ -31,9 +31,6 @@
 - R Language
 - Power BI
 - Qlik Sense
-
-
-
 
 
 ### Você também me encontra em:
